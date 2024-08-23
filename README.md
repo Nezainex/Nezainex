@@ -8,7 +8,7 @@ Currently I'm an Android developer
 <h2 align="center" style="font-size: 32px;">Skills</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,visualstudio,eclipse,vscode,java,kotlin,html,python,github,git,stackoverflow,linkedin,photoshop,pr,au,ableton,instagram,discord,gmail,notion&perline=10,unity,firebase" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,visualstudio,eclipse,vscode,java,kotlin,html,python,github,git,stackoverflow,linkedin,photoshop,pr,au,ableton,instagram,discord,gmail,notion,unity,firebase&perline=12" />
   </a>
 </p>
 
