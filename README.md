@@ -10,7 +10,7 @@ Currently I'm a QA Engineer.
 <h2 align="center" style="font-size: 32px;">Skills</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,idea,visualstudio,eclipse,vscode,java,kotlin,html,python,github,git,stackoverflow,linkedin,photoshop,pr,au,ableton,instagram,discord,gmail,notion,unity,firebase&perline=13" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,idea,visualstudio,eclipse,vscode,java,kotlin,html,jenkins,docker,github,git,stackoverflow,linkedin,photoshop,pr,au,ableton,instagram,discord,gmail,notion,unity,firebase&perline=15" />
   </a>
 </p>
 
