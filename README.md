@@ -11,7 +11,7 @@ To automate UI tests I use Selenide, and for API I use the Rest assured library 
 ##
 In my work, I try to be attentive to details, carefully analyze requirements and always look for the best solutions for test automation. 
 I like to learn new things and I am always open to new ideas and approaches.
-##
+
 
 <h2 align="center" style="font-size: 32px;">Skills</h2>
 <p align="center">
