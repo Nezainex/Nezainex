@@ -8,6 +8,7 @@ In my free time I study new approaches and tools in automation on YouTube and Ha
 ##
 I use Java (Maven) and Selenium to write automated tests, TestNG to manage tests, and Allure for reporting. 
 To automate UI tests I use Selenide, and for API I use the Rest assured library and Postman.
+##
 In my work, I try to be attentive to details, carefully analyze requirements and always look for the best solutions for test automation. 
 I like to learn new things and I am always open to new ideas and approaches.
 ##
