@@ -5,6 +5,7 @@
 
 I became interested in test automation because I like that automation provides the ability to apply programming to solve testing problems and improve processes. 
 In my free time I study new approaches and tools in automation on YouTube and Habr.
+##
 I use Java (Maven) and Selenium to write automated tests, TestNG to manage tests, and Allure for reporting. 
 To automate UI tests I use Selenide, and for API I use the Rest assured library and Postman.
 In my work, I try to be attentive to details, carefully analyze requirements and always look for the best solutions for test automation. 
